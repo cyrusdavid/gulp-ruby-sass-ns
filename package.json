@@ -1,6 +1,6 @@
 {
   "name": "gulp-ruby-sass-ns",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "gulp plugin for ruby-sass",
   "main": "index.js",
   "scripts": {
